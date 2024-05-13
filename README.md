@@ -11,7 +11,7 @@
 
 - 💬 Ask Me About **Whatsapp Bots**
 
-- 📫 How To Reach Me **https://t.me/Moonshining2**
+-<a href="https://t.me/Moonshining2"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 - ⚡ Fun Fact **I Think I Am Funny😂**
 
